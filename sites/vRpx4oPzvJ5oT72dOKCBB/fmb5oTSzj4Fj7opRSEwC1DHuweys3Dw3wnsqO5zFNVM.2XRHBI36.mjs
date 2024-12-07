@@ -6972,59 +6972,7 @@ var Di = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                 layoutDependency: v,
                 layoutId: "MQY7haDVw",
                 children: [
-                  r(P, {
-                    height: 40,
-                    y:
-                      (K?.y || 0) +
-                      (20 + ((K?.height || 80) - 40 - 40) / 2) +
-                      0,
-                    children: r(c.div, {
-                      className: "framer-1smwwq4-container",
-                      layoutDependency: v,
-                      layoutId: "j77_5eBVf-container",
-                      children: r(pe, {
-                        cITQpDSzU: !1,
-                        cSN7oJ9Cy: !1,
-                        eVKX59h3Y: "https://docs.goat.fi/",
-                        GQMIB2fo_: "arrow-up-right",
-                        height: "100%",
-                        hvc8_eco1: !1,
-                        id: "j77_5eBVf",
-                        jY9wMwBAL: "Docs",
-                        layoutId: "j77_5eBVf",
-                        Q5d6XPMqx: !1,
-                        variant: "R2ZVs939o",
-                        width: "100%",
-                      }),
-                    }),
-                  }),
-                  r(P, {
-                    height: 40,
-                    y:
-                      (K?.y || 0) +
-                      (20 + ((K?.height || 80) - 40 - 40) / 2) +
-                      0,
-                    children: r(c.div, {
-                      className: "framer-5dg2pv-container",
-                      layoutDependency: v,
-                      layoutId: "cMIOxXQUW-container",
-                      children: r(pe, {
-                        cITQpDSzU: !1,
-                        cSN7oJ9Cy: !1,
-                        eVKX59h3Y:
-                          "https://mirror.xyz/0xE3836746Ca5769B912C3f2b2CCe006103770849a",
-                        GQMIB2fo_: "arrow-up-right",
-                        height: "100%",
-                        hvc8_eco1: !1,
-                        id: "cMIOxXQUW",
-                        jY9wMwBAL: "Blog",
-                        layoutId: "cMIOxXQUW",
-                        Q5d6XPMqx: !1,
-                        variant: "R2ZVs939o",
-                        width: "100%",
-                      }),
-                    }),
-                  }),
+
                 ],
               }),
               r(P, {
@@ -10287,7 +10235,7 @@ var $l = O(Je),
                                   },
                                   children: r(sr, {
                                     aa8umYql3:
-                                      "/assets/DbizLidAx73Q5a8zvq6xYr1GBQ.mp4",
+                                      "https://framerusercontent.com/assets/DbizLidAx73Q5a8zvq6xYr1GBQ.mp4",
                                     bATS1N0ME: "Deposit any Asset",
                                     height: "100%",
                                     HZSFmPgtP: "ArrowDownOnSquare",
@@ -10296,7 +10244,7 @@ var $l = O(Je),
                                       "var(--token-5af81502-6008-4737-b4fe-6bbdf28f9dd9, rgb(231, 184, 255))",
                                     layoutId: "dWJGk13ap",
                                     MmzxXOXWw:
-                                      "/assets/42sQlQrNWcjCwqnwCOuXARPFQBU.webm",
+                                      "https://framerusercontent.com/assets/42sQlQrNWcjCwqnwCOuXARPFQBU.webm",
                                     RNxPvt45N:
                                       "Sheep Zap converts any major crypto into the vault's base currency for seamless staking.",
                                     SlsCzV7yO: "rgba(121, 37, 161, 0.25)",
@@ -10334,7 +10282,7 @@ var $l = O(Je),
                                   },
                                   children: r(sr, {
                                     aa8umYql3:
-                                      "/assets/GW47afUvEGSVeYJGgYGi5YZI4.mp4",
+                                      "https://framerusercontent.com/assets/GW47afUvEGSVeYJGgYGi5YZI4.mp4",
                                     bATS1N0ME: "Diversified Yield Chasing",
                                     height: "100%",
                                     HZSFmPgtP: "ChartBar",
@@ -10342,7 +10290,7 @@ var $l = O(Je),
                                     kLWZXAKEN: "rgb(236, 122, 41)",
                                     layoutId: "dI4YibAqG",
                                     MmzxXOXWw:
-                                      "/assets/LoyHrPn2awgMV48zDwUNsraTYQ.webm",
+                                      "https://framerusercontent.com/assets/LoyHrPn2awgMV48zDwUNsraTYQ.webm",
                                     RNxPvt45N:
                                       "Allocates assets across high-yield protocols, continuosly shifting to top performers.",
                                     SlsCzV7yO: "rgba(236, 122, 41, 0.25)",
@@ -10380,7 +10328,7 @@ var $l = O(Je),
                                   },
                                   children: r(sr, {
                                     aa8umYql3:
-                                      "/assets/fHJEtQinEiPlg3tGt5tKAuro.mp4",
+                                      "https://framerusercontent.com/assets/fHJEtQinEiPlg3tGt5tKAuro.mp4",
                                     bATS1N0ME: "Optimize and Rebalance",
                                     height: "100%",
                                     HZSFmPgtP: "Cog",
@@ -10388,7 +10336,7 @@ var $l = O(Je),
                                     kLWZXAKEN: "rgb(202, 206, 235)",
                                     layoutId: "PH6KgirQq",
                                     MmzxXOXWw:
-                                      "/assets/cIEJRQCijy6RHRsdRHxHpv0VPPI.webm",
+                                      "https://framerusercontent.com/assets/cIEJRQCijy6RHRsdRHxHpv0VPPI.webm",
                                     RNxPvt45N:
                                       "Oracles propose optimizing and rebalancing of the strategies for the best returns.",
                                     SlsCzV7yO: "rgba(139, 144, 179, 0.25)",
@@ -11053,10 +11001,10 @@ var $l = O(Je),
                                 id: "YLH85of3A",
                                 layoutId: "YLH85of3A",
                                 movFile:
-                                  "/assets/gb4ELyNg8ruTEzWRUtQWoxCyho.mp4",
+                                  "https://framerusercontent.com/assets/gb4ELyNg8ruTEzWRUtQWoxCyho.mp4",
                                 style: { width: "100%" },
                                 webmFile:
-                                  "/assets/DExSZXs4eMRcAf68o6oDFIEmats.webm",
+                                  "https://framerusercontent.com/assets/DExSZXs4eMRcAf68o6oDFIEmats.webm",
                                 width: "100%",
                               }),
                             }),
@@ -11369,10 +11317,10 @@ var $l = O(Je),
                                 id: "ZjNNkk1Ug",
                                 layoutId: "ZjNNkk1Ug",
                                 movFile:
-                                  "/assets/PmQ3TkLzHWR5JLg8LGhTrtkdIo.mp4",
+                                  "https://framerusercontent.com/assets/PmQ3TkLzHWR5JLg8LGhTrtkdIo.mp4",
                                 style: { width: "100%" },
                                 webmFile:
-                                  "/assets/3yAVTlRRQKoRfAgB0Dk9cpad9ts.webm",
+                                  "https://framerusercontent.com/assets/3yAVTlRRQKoRfAgB0Dk9cpad9ts.webm",
                                 width: "100%",
                               }),
                             }),
@@ -11390,10 +11338,10 @@ var $l = O(Je),
                                 id: "Qfqzg0jdw",
                                 layoutId: "Qfqzg0jdw",
                                 movFile:
-                                  "/assets/Z4fWQxBNy2gNYp93z9B0xmsjYks.mp4",
+                                  "https://framerusercontent.com/assets/Z4fWQxBNy2gNYp93z9B0xmsjYks.mp4",
                                 style: { width: "100%" },
                                 webmFile:
-                                  "/assets/Map3XswavJrrolLUD9UwFpwa8s.webm",
+                                  "https://framerusercontent.com/assets/Map3XswavJrrolLUD9UwFpwa8s.webm",
                                 width: "100%",
                               }),
                             }),
@@ -11993,7 +11941,7 @@ Q(
           style: "normal",
           unicodeRange:
             "U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F",
-          url: "/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+          url: "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
           weight: "400",
         },
         {
@@ -12001,7 +11949,7 @@ Q(
           source: "framer",
           style: "normal",
           unicodeRange: "U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116",
-          url: "/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+          url: "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
           weight: "400",
         },
         {
@@ -12009,7 +11957,7 @@ Q(
           source: "framer",
           style: "normal",
           unicodeRange: "U+1F00-1FFF",
-          url: "/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+          url: "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
           weight: "400",
         },
         {
@@ -12017,7 +11965,7 @@ Q(
           source: "framer",
           style: "normal",
           unicodeRange: "U+0370-03FF",
-          url: "/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+          url: "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
           weight: "400",
         },
         {
@@ -12026,7 +11974,7 @@ Q(
           style: "normal",
           unicodeRange:
             "U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF",
-          url: "/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+          url: "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
           weight: "400",
         },
         {
@@ -12035,7 +11983,7 @@ Q(
           style: "normal",
           unicodeRange:
             "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
-          url: "/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2",
+          url: "https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2",
           weight: "400",
         },
         {
@@ -12044,7 +11992,7 @@ Q(
           style: "normal",
           unicodeRange:
             "U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB",
-          url: "/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+          url: "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
           weight: "400",
         },
         {
