@@ -6561,7 +6561,7 @@ var hi = { damping: 60, delay: 0, mass: 1, stiffness: 500, type: "spring" },
                     mwCBIUO9J: F,
                     name: "2",
                     sa9U39asD:
-                      "Yes. You can find the audit reports on our documentation at docs.goat.fi",
+                      "Yes. You can find the audit reports on our documentation at sheep-finance.gitbook.io/shp-finance",
                     style: { width: "100%" },
                     variant: "piE1saN_v",
                     width: "100%",
